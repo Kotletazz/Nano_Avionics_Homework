@@ -1,0 +1,14 @@
+﻿<Window x:Class="Nano_Avionics_Homework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Nano_Avionics_Homework"
+        mc:Ignorable="d"
+        Title="Filter" Height="211" Width="235">
+    <Grid Margin="0,0,2,6">
+        <Button Content="Select File" HorizontalAlignment="Left" Height="38" Margin="10,126,0,0" VerticalAlignment="Top" Width="91" x:Name="btnSelectFile" Click="btnSelectFile_Click"/>
+        <Label Content="Eporting large files may take a while" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,28,0,0" x:Name="lblStatus" Height="33"/>
+
+    </Grid>
+</Window>

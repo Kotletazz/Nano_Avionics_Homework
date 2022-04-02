@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nano_Avionics_Homework", "Nano_Avionics_Homework\Nano_Avionics_Homework.csproj", "{A440BF56-820E-4415-9A51-BD7E8F318730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A440BF56-820E-4415-9A51-BD7E8F318730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A440BF56-820E-4415-9A51-BD7E8F318730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A440BF56-820E-4415-9A51-BD7E8F318730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A440BF56-820E-4415-9A51-BD7E8F318730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8919FC3E-FDC1-43A1-944B-AC4026C9AC15}
+	EndGlobalSection
+EndGlobal
